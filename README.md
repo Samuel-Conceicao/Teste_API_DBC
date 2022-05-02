@@ -13,7 +13,7 @@ O projeto deve conter ao menos um cenário para cada um dos seguintes métodos d
 
 2.2 - Validar o método GET SINGLE USER
 
-# CENÁRIOS BÔNUS:
+# Cenários Bônus:
 
 2.3 - Valide o método GET LIST USERS
 
